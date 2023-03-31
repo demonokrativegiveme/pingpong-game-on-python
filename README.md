@@ -1,2 +1,1 @@
-# pingpong-game-on-python
-pingpong game on python
+вставляете код в вскод и запускаете его, двигать палки на  W S и стреллки вверх вниз
